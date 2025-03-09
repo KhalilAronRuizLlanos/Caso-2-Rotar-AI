@@ -213,7 +213,8 @@ button img {
 
 /* slider */
 
-
+.slider{filter: grayscale(100%);
+}
 .slider img {
   width: 100px;
   height: auto;
